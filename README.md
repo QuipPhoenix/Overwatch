@@ -24,7 +24,7 @@ Heart-rate sensor and Temperate sensor will continuously monitor child  health c
 I have designed a flutter android application. Flutter plugin for Firebase Authentication is used for creation of new user and login of existing email and password. When a new user is registered a new database is created with Firestore automatically with user UID which will store and regularly update the information received  from GSM Module. The dashboard Contains fields to present the values of Heart-rate and Temperature which gets fetched when the bottom button is pressed. On clicking the map card Map Screen is opened. Map Screen is created using Google Maps flutter package and Maps SDK for Android API from google Cloud. The location of the device is marked on Map using marker and Latitude Longitude values fetched from the database.  
 
 # Screenshots
-<img src = "appScreenShots/Loading_Screen.jpg" width = 540 height = 960>  <img src = "appScreenShots/Home_Screen.jpg" width = 540 height = 960> <img src = "appScreenShots/Login_Screen.jpg" width = 540 height = 960> <img src = "appScreenShots/Dashboard_withoutFetch.jpg" width = 540 height = 960>
+<img src = "appScreenShots/Loading_Screen.jpg" width = 540 height = 960>  <img src = "appScreenShots/Home_Screen.jpg" width = 540 height = 960> <img src = "appScreenShots/Login_Screen.jpg" width = 540 height = 960> 
 
 <img src = "appScreenShots/Dashboard_withoutFetch.jpg" width = 540 height = 960>
 
