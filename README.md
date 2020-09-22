@@ -1,7 +1,7 @@
 # OVERWATCH
 
-**Aim**
-		Overwatch is a safety solution project for kids. It is a device which monitors the health of the kid (his/her body Temperature and heart-rate) as well as monitor his live location and share that with their parents as and when required. 
+
+Overwatch is a safety solution project for kids. It is a device which monitors the health of the kid (his/her body Temperature and heart-rate) as well as monitor his live location and share that with their parents as and when required. 
 
 
 # How Will It Work
